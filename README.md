@@ -25,7 +25,9 @@ Currently an Associate Manager at Ernst & Young, leading architecture and techni
 
 ## Featured projects
 
-- **[intelligent-data-mesh-framework](https://github.com/amuln90/intelligent-data-mesh-framework)** — Natural-language federated query engine: Streamlit + FastAPI + ChromaDB semantic search + Groq LLM (NL-to-SQL) + Trino + PostgreSQL, cataloged via OpenMetadata
-- **[loan-default-risk-pipeline](https://github.com/amuln90/loan-default-risk-pipeline)** — End-to-end loan default prediction: EDA, preprocessing pipeline, model comparison, and a persisted scikit-learn pipeline for inference
-- **[cv-classification-segmentation-detection](https://github.com/amuln90/cv-classification-segmentation-detection)** — Transfer learning image classification, VGG19 fine-tuning, UNet nuclei segmentation, and Faster R-CNN object detection
-- **[book-recommendation-engine](https://github.com/amuln90/book-recommendation-engine)** — Collaborative-filtering recommender (SVD, user similarity, PCA/t-SNE) on the Book-Crossing dataset
+*Repos below are private — happy to grant access on request.*
+
+- **intelligent-data-mesh-framework** 🔒 — Natural-language federated query engine: Streamlit + FastAPI + ChromaDB semantic search + Groq LLM (NL-to-SQL) + Trino + PostgreSQL, cataloged via OpenMetadata
+- **loan-default-risk-pipeline** 🔒 — End-to-end loan default prediction: EDA, preprocessing pipeline, model comparison, and a persisted scikit-learn pipeline for inference
+- **cv-classification-segmentation-detection** 🔒 — Transfer learning image classification, VGG19 fine-tuning, UNet nuclei segmentation, and Faster R-CNN object detection
+- **book-recommendation-engine** 🔒 — Collaborative-filtering recommender (SVD, user similarity, PCA/t-SNE) on the Book-Crossing dataset
