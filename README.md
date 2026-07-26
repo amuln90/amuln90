@@ -31,3 +31,7 @@ Currently an Associate Manager at Ernst & Young, leading architecture and techni
 - **loan-default-risk-pipeline** 🔒 — End-to-end loan default prediction: EDA, preprocessing pipeline, model comparison, and a persisted scikit-learn pipeline for inference
 - **cv-classification-segmentation-detection** 🔒 — Transfer learning image classification, VGG19 fine-tuning, UNet nuclei segmentation, and Faster R-CNN object detection
 - **book-recommendation-engine** 🔒 — Collaborative-filtering recommender (SVD, user similarity, PCA/t-SNE) on the Book-Crossing dataset
+
+## Learning
+
+- **[LangChain-Langgraph-Quickstart](https://github.com/amuln90/LangChain-Langgraph-Quickstart)** (fork) — hands-on work from a LangChain, LangGraph & LangSmith agentic AI workshop by The Gen Academy, led by Aishwarya Srinivasan and Arvind Narayanamurthy
