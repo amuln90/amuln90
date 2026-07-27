@@ -14,7 +14,7 @@ operate.
 
 > The repositories below are private. Access is available on request.
 
-### [Acme Agentic Support Assistant](https://github.com/amuln90/acme-agentic-assistant)
+### [Agentic Support Assistant](https://github.com/amuln90/acme-agentic-assistant)
 
 Enterprise-shaped support assistant demonstrating secure LLM tool use and
 database-grounded responses.
@@ -29,7 +29,7 @@ database-grounded responses.
 `Python` `FastAPI` `LangGraph` `LangChain` `Gemini` `FastMCP` `Keycloak`
 `PostgreSQL` `Redis` `Docker`
 
-### [Acme RAG Knowledge Assistant](https://github.com/amuln90/acme-rag-assistant)
+### [RAG Knowledge Assistant](https://github.com/amuln90/acme-rag-assistant)
 
 Focused RAG exploration for semantically retrieving unstructured knowledge-base
 content and generating answers grounded only in retrieved evidence.
