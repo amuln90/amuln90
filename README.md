@@ -61,11 +61,14 @@ content and generating answers grounded only in retrieved evidence.
 
 ### Additional engineering projects
 
-| Project | Engineering focus |
-| --- | --- |
-| **loan-default-risk-pipeline** | Reproducible preprocessing, model comparison, and persisted scikit-learn inference pipeline |
-| **cv-classification-segmentation-detection** | Transfer learning, VGG19 fine-tuning, UNet segmentation, and Faster R-CNN detection |
-| **book-recommendation-engine** | Collaborative filtering, SVD, similarity modeling, and PCA/t-SNE analysis |
+Selected work across predictive machine learning, computer vision, and
+personalization:
+
+| Project | Area | What it demonstrates |
+| :--- | :---: | :--- |
+| **[Loan Default Risk Pipeline](https://github.com/amuln90/loan-default-risk-pipeline)** | `Applied ML` | End-to-end ML lifecycle: exploratory analysis, repeatable preprocessing, model comparison, and a persisted scikit-learn pipeline for inference. |
+| **[Computer Vision Suite](https://github.com/amuln90/cv-classification-segmentation-detection)** | `Computer Vision` | Classification, segmentation, and detection through transfer learning, VGG19 fine-tuning, UNet, and Faster R-CNN. |
+| **[Book Recommendation Engine](https://github.com/amuln90/book-recommendation-engine)** | `Recommenders` | Personalized ranking with collaborative filtering, SVD, and user similarity, supported by PCA/t-SNE exploration. |
 
 ## What I work on
 
