@@ -29,6 +29,20 @@ database-grounded responses.
 `Python` `FastAPI` `LangGraph` `LangChain` `Gemini` `FastMCP` `Keycloak`
 `PostgreSQL` `Redis` `Docker`
 
+### [Intelligent Data Mesh Framework](https://github.com/amuln90/intelligent-data-mesh-framework)
+
+Natural-language analytics framework for discovering data semantically and
+querying distributed sources through a governed, federated data layer.
+
+- Streamlit experience backed by FastAPI services
+- ChromaDB semantic search for data-product and metadata discovery
+- Groq-powered natural-language-to-SQL generation
+- Trino federation across PostgreSQL-backed data sources
+- OpenMetadata integration for catalog context and governance
+
+`Python` `FastAPI` `Streamlit` `ChromaDB` `Groq` `Trino` `PostgreSQL`
+`OpenMetadata`
+
 ### [RAG Knowledge Assistant](https://github.com/amuln90/acme-rag-assistant)
 
 Focused RAG exploration for semantically retrieving unstructured knowledge-base
@@ -47,7 +61,6 @@ content and generating answers grounded only in retrieved evidence.
 
 | Project | Engineering focus |
 | --- | --- |
-| **intelligent-data-mesh-framework** | Natural-language federated querying with FastAPI, ChromaDB, Groq, Trino, PostgreSQL, and OpenMetadata |
 | **loan-default-risk-pipeline** | Reproducible preprocessing, model comparison, and persisted scikit-learn inference pipeline |
 | **cv-classification-segmentation-detection** | Transfer learning, VGG19 fine-tuning, UNet segmentation, and Faster R-CNN detection |
 | **book-recommendation-engine** | Collaborative filtering, SVD, similarity modeling, and PCA/t-SNE analysis |
