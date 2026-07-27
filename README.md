@@ -1,12 +1,6 @@
-<div align="center">
+# Hi, I'm Amul Naik
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4285F4&height=180&section=header&text=Amul%20Naik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Platform%20%26%20Data%20Engineering%20Lead&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/amuln90">
-<img src="https://readme-typing-svg.demolab.com/?lines=Agentic+AI+%26+Multi-Agent+Orchestration;Production+RAG+on+Vertex+AI+%26+GCP;10%2B+Years+in+Cloud+%26+Data+Platform+Engineering;Applied+AI+Engineer+%7C+GenAI+%7C+LLMs+%7C+MLOps&font=Fira+Code&center=true&width=600&height=40&color=1a1a2e&vCenter=true&size=20"/>
-</a>
-
-</div>
+**AI Platform & Data Engineering Lead**
 
 10+ years architecting production-grade AI platforms, cloud-native data ecosystems, and intelligent automation across GCP, Azure, and AWS.
 
@@ -74,7 +68,3 @@ B.Sc. Information Technology, Mumbai University
 ## Learning
 
 - **[LangChain-Langgraph-Quickstart](https://github.com/amuln90/LangChain-Langgraph-Quickstart)** (fork) — hands-on work from a LangChain, LangGraph & LangSmith agentic AI workshop by The Gen Academy, led by Aishwarya Srinivasan and Arvind Narayanamurthy
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:1a1a2e&height=100&section=footer" width="100%"/>
