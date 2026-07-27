@@ -16,7 +16,7 @@ operate.
 
 > The repositories below are private. Access is available on request.
 
-### [Agentic Support Assistant](https://github.com/amuln90/acme-agentic-assistant)
+### 🧠 [Agentic Support Assistant](https://github.com/amuln90/acme-agentic-assistant)
 
 Enterprise-shaped support assistant demonstrating secure LLM tool use and
 database-grounded responses.
@@ -31,7 +31,7 @@ database-grounded responses.
 `Python` `FastAPI` `LangGraph` `LangChain` `Gemini` `FastMCP` `Keycloak`
 `PostgreSQL` `Redis` `Docker`
 
-### [Intelligent Data Mesh Framework](https://github.com/amuln90/intelligent-data-mesh-framework)
+### 🕸️ [Intelligent Data Mesh Framework](https://github.com/amuln90/intelligent-data-mesh-framework)
 
 Natural-language analytics framework for discovering data semantically and
 querying distributed sources through a governed, federated data layer.
@@ -45,7 +45,7 @@ querying distributed sources through a governed, federated data layer.
 `Python` `FastAPI` `Streamlit` `ChromaDB` `Groq` `Trino` `PostgreSQL`
 `OpenMetadata`
 
-### [RAG Knowledge Assistant](https://github.com/amuln90/acme-rag-assistant)
+### 🔎 [RAG Knowledge Assistant](https://github.com/amuln90/acme-rag-assistant)
 
 Focused RAG exploration for semantically retrieving unstructured knowledge-base
 content and generating answers grounded only in retrieved evidence.
@@ -66,9 +66,9 @@ personalization:
 
 | Project | Area | What it demonstrates |
 | :--- | :---: | :--- |
-| **[Loan Default Risk Pipeline](https://github.com/amuln90/loan-default-risk-pipeline)** | `Applied ML` | End-to-end ML lifecycle: exploratory analysis, repeatable preprocessing, model comparison, and a persisted scikit-learn pipeline for inference. |
-| **[Computer Vision Suite](https://github.com/amuln90/cv-classification-segmentation-detection)** | `Computer Vision` | Classification, segmentation, and detection through transfer learning, VGG19 fine-tuning, UNet, and Faster R-CNN. |
-| **[Book Recommendation Engine](https://github.com/amuln90/book-recommendation-engine)** | `Recommenders` | Personalized ranking with collaborative filtering, SVD, and user similarity, supported by PCA/t-SNE exploration. |
+| 📊 **[Loan Default Risk Pipeline](https://github.com/amuln90/loan-default-risk-pipeline)** | `Applied ML` | End-to-end ML lifecycle: exploratory analysis, repeatable preprocessing, model comparison, and a persisted scikit-learn pipeline for inference. |
+| 👁️ **[Computer Vision Suite](https://github.com/amuln90/cv-classification-segmentation-detection)** | `Computer Vision` | Classification, segmentation, and detection through transfer learning, VGG19 fine-tuning, UNet, and Faster R-CNN. |
+| 📚 **[Book Recommendation Engine](https://github.com/amuln90/book-recommendation-engine)** | `Recommenders` | Personalized ranking with collaborative filtering, SVD, and user similarity, supported by PCA/t-SNE exploration. |
 
 ## What I work on
 
