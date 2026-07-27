@@ -2,6 +2,8 @@
 
 ### Senior Applied AI & Data Engineer
 
+![Applied AI architecture: user intent to agents and RAG, secure tools, and trusted data](assets/applied-ai-architecture.svg)
+
 I design secure, grounded AI systems and cloud-native data platforms, with a
 focus on **agentic AI, retrieval-augmented generation, AI evaluation, knowledge
 graphs, and production MLOps**.

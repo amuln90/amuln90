@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Applied AI systems architecture</title>
+  <desc id="description">A flow from user intent through agent and retrieval orchestration, secure tools, and trusted enterprise data, supported by security, evaluation, observability, and cloud engineering.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081426"/>
+      <stop offset="0.55" stop-color="#10233f"/>
+      <stop offset="1" stop-color="#132d46"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="7" stdDeviation="8" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#60a5fa"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <circle cx="1080" cy="38" r="150" fill="#0ea5e9" opacity="0.08"/>
+  <circle cx="95" cy="340" r="165" fill="#34d399" opacity="0.06"/>
+
+  <text x="60" y="54" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">
+    From intent to trusted intelligence
+  </text>
+  <text x="60" y="81" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">
+    Designing grounded AI systems with explicit security, data, and operational boundaries
+  </text>
+  <rect x="60" y="98" width="1080" height="2" rx="1" fill="url(#accent)" opacity="0.85"/>
+
+  <g filter="url(#shadow)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="60" y="133" width="210" height="96" rx="18" fill="#142d4c" stroke="#38bdf8" stroke-width="1.5"/>
+    <text x="165" y="169" text-anchor="middle" fill="#7dd3fc" font-size="13" font-weight="700" letter-spacing="1.3">EXPERIENCE</text>
+    <text x="165" y="199" text-anchor="middle" fill="#f8fafc" font-size="21" font-weight="650">User intent</text>
+    <text x="165" y="218" text-anchor="middle" fill="#94a3b8" font-size="12">Natural language and workflows</text>
+
+    <rect x="350" y="133" width="220" height="96" rx="18" fill="#172554" stroke="#818cf8" stroke-width="1.5"/>
+    <text x="460" y="169" text-anchor="middle" fill="#a5b4fc" font-size="13" font-weight="700" letter-spacing="1.3">INTELLIGENCE</text>
+    <text x="460" y="199" text-anchor="middle" fill="#f8fafc" font-size="21" font-weight="650">Agents + RAG</text>
+    <text x="460" y="218" text-anchor="middle" fill="#94a3b8" font-size="12">Reason, retrieve, and route</text>
+
+    <rect x="650" y="133" width="210" height="96" rx="18" fill="#123c3a" stroke="#34d399" stroke-width="1.5"/>
+    <text x="755" y="169" text-anchor="middle" fill="#6ee7b7" font-size="13" font-weight="700" letter-spacing="1.3">ACTION</text>
+    <text x="755" y="199" text-anchor="middle" fill="#f8fafc" font-size="21" font-weight="650">Secure tools</text>
+    <text x="755" y="218" text-anchor="middle" fill="#94a3b8" font-size="12">APIs, MCP, services, and RBAC</text>
+
+    <rect x="940" y="133" width="200" height="96" rx="18" fill="#3b2f1d" stroke="#fbbf24" stroke-width="1.5"/>
+    <text x="1040" y="169" text-anchor="middle" fill="#fde68a" font-size="13" font-weight="700" letter-spacing="1.3">GROUNDING</text>
+    <text x="1040" y="199" text-anchor="middle" fill="#f8fafc" font-size="21" font-weight="650">Trusted data</text>
+    <text x="1040" y="218" text-anchor="middle" fill="#94a3b8" font-size="12">Structured and semantic context</text>
+  </g>
+
+  <g fill="none" stroke="#60a5fa" stroke-width="2.2" marker-end="url(#arrow)" opacity="0.9">
+    <path d="M278 181 H337"/>
+    <path d="M578 181 H637"/>
+    <path d="M868 181 H927"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="145" y="276" width="180" height="40" rx="20" fill="#0f2742" stroke="#334155"/>
+    <text x="235" y="301" text-anchor="middle" fill="#cbd5e1">Security by design</text>
+
+    <rect x="345" y="276" width="180" height="40" rx="20" fill="#0f2742" stroke="#334155"/>
+    <text x="435" y="301" text-anchor="middle" fill="#cbd5e1">AI evaluation</text>
+
+    <rect x="545" y="276" width="180" height="40" rx="20" fill="#0f2742" stroke="#334155"/>
+    <text x="635" y="301" text-anchor="middle" fill="#cbd5e1">Observability</text>
+
+    <rect x="745" y="276" width="180" height="40" rx="20" fill="#0f2742" stroke="#334155"/>
+    <text x="835" y="301" text-anchor="middle" fill="#cbd5e1">Cloud engineering</text>
+  </g>
+</svg>
