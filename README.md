@@ -1,71 +1,93 @@
 # Hi, I'm Amul Naik
 
-**AI Platform & Data Engineering Lead**
+### Senior Applied AI & Data Engineer
 
-10+ years architecting production-grade AI platforms, cloud-native data ecosystems, and intelligent automation across GCP, Azure, and AWS.
+I design secure, grounded AI systems and cloud-native data platforms, with a
+focus on **agentic AI, retrieval-augmented generation, AI evaluation, knowledge
+graphs, and production MLOps**.
 
-Currently an Associate Manager at Ernst & Young, leading architecture and technical delivery of an Enterprise AI Engineering Platform on Google Cloud — multi-agent orchestration, production RAG pipelines (Vertex AI, semantic embeddings, vector search), and Knowledge Graph-backed semantic retrieval over enterprise metadata.
+I bring 10+ years of experience across GCP, Azure, and AWS, translating complex
+enterprise problems into systems that are explainable, testable, and ready to
+operate.
 
-<br>
+## Featured work
 
-## Core capabilities
+> The repositories below are private. Access is available on request.
 
-**Enterprise AI**
-![Agentic AI](https://img.shields.io/badge/-%F0%9F%A4%96%20Agentic%20AI-1a1a2e?style=flat-square)
-![LLMs](https://img.shields.io/badge/-%F0%9F%A7%A0%20LLMs-1a1a2e?style=flat-square)
-![RAG](https://img.shields.io/badge/-%F0%9F%94%8E%20RAG-1a1a2e?style=flat-square)
-![Knowledge Graphs](https://img.shields.io/badge/-%F0%9F%95%B8%EF%B8%8F%20Knowledge%20Graphs-1a1a2e?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/-%E2%9C%8D%EF%B8%8F%20Prompt%20Engineering-1a1a2e?style=flat-square)
-![Conversational AI](https://img.shields.io/badge/-%F0%9F%92%AC%20Conversational%20AI-1a1a2e?style=flat-square)
+### [Acme Agentic Support Assistant](https://github.com/amuln90/acme-agentic-assistant)
 
-**Cloud & AI Platforms**
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Run & GKE](https://img.shields.io/badge/-Cloud%20Run%20%26%20GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/-Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Composer](https://img.shields.io/badge/-Cloud%20Composer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+Enterprise-shaped support assistant demonstrating secure LLM tool use and
+database-grounded responses.
 
-**Data Platform Engineering**
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt%20Cloud-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Dagster](https://img.shields.io/badge/-Dagster-654AF3?style=flat-square&logo=dagster&logoColor=white)
-![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
-![Data Observability](https://img.shields.io/badge/-%F0%9F%94%8D%20Data%20Observability-1a1a2e?style=flat-square)
+- Gemini tool-calling agent orchestrated with LangGraph
+- FastMCP server used by the agent over streamable HTTP
+- Keycloak authentication with sales, support, and admin RBAC
+- PostgreSQL business data and Redis conversation memory
+- FastAPI and Streamlit interfaces running through Docker Compose
+- 74 automated tests and an 8/8 live functional evaluation
 
-**Applied AI & MLOps**
-![LLM Engineering](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20LLM%20Engineering-1a1a2e?style=flat-square)
-![MLOps](https://img.shields.io/badge/-MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![AI Evaluation](https://img.shields.io/badge/-%F0%9F%93%8A%20AI%20Evaluation-1a1a2e?style=flat-square)
-![AI Observability](https://img.shields.io/badge/-%F0%9F%91%81%EF%B8%8F%20AI%20Observability-1a1a2e?style=flat-square)
+`Python` `FastAPI` `LangGraph` `LangChain` `Gemini` `FastMCP` `Keycloak`
+`PostgreSQL` `Redis` `Docker`
 
-**Software Engineering**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-%F0%9F%94%8C%20REST%20APIs-1a1a2e?style=flat-square)
-![Event-driven](https://img.shields.io/badge/-%E2%9A%A1%20Event--driven%20Architecture-1a1a2e?style=flat-square)
+### [Acme RAG Knowledge Assistant](https://github.com/amuln90/acme-rag-assistant)
 
-<br>
+Focused RAG exploration for semantically retrieving unstructured knowledge-base
+content and generating answers grounded only in retrieved evidence.
 
-## Education
+- PostgreSQL-to-ChromaDB knowledge ingestion
+- Local semantic embeddings and ranked retrieval
+- LangGraph retrieve-to-generate workflow with source attribution
+- Keycloak RBAC, Redis session memory, FastAPI, and Streamlit
+- 20 focused automated tests covering the RAG-specific implementation
 
-- **Advanced Management Programme in Business Analytics (AMPBA)**, Indian School of Business — AI, ML, GenAI, Data Engineering, Decision Analytics
+`Python` `LangGraph` `ChromaDB` `Gemini` `FastAPI` `PostgreSQL` `Redis`
+`Keycloak` `Docker`
+
+### Additional engineering projects
+
+| Project | Engineering focus |
+| --- | --- |
+| **intelligent-data-mesh-framework** | Natural-language federated querying with FastAPI, ChromaDB, Groq, Trino, PostgreSQL, and OpenMetadata |
+| **loan-default-risk-pipeline** | Reproducible preprocessing, model comparison, and persisted scikit-learn inference pipeline |
+| **cv-classification-segmentation-detection** | Transfer learning, VGG19 fine-tuning, UNet segmentation, and Faster R-CNN detection |
+| **book-recommendation-engine** | Collaborative filtering, SVD, similarity modeling, and PCA/t-SNE analysis |
+
+## What I work on
+
+- **Agentic systems:** tool calling, reusable workflows, MCP, memory, RBAC, and
+  human-auditable execution
+- **Grounded AI:** RAG, semantic retrieval, knowledge graphs, citations, and
+  evaluation
+- **AI platforms:** model integration, observability, MLOps, and secure
+  cloud-native delivery
+- **Data platforms:** distributed processing, orchestration, data quality,
+  metadata, and analytics engineering
+
+## Technology
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+
+## Experience and education
+
+I am currently an Associate Manager at Ernst & Young, working across enterprise
+AI engineering, cloud data platforms, and intelligent automation.
+
+- **Advanced Management Programme in Business Analytics**, Indian School of
+  Business
 - **B.Sc. Information Technology**, Mumbai University
 
-<br>
+## Continuous learning
 
-## Featured projects
-
-*Repos below are private — happy to grant access on request.*
-
-| Project | What it does |
-|---|---|
-| 🔒 **intelligent-data-mesh-framework** | Natural-language federated query engine: Streamlit + FastAPI + ChromaDB semantic search + Groq LLM (NL-to-SQL) + Trino + PostgreSQL, cataloged via OpenMetadata |
-| 🔒 **loan-default-risk-pipeline** | End-to-end loan default prediction: EDA, preprocessing pipeline, model comparison, and a persisted scikit-learn pipeline for inference |
-| 🔒 **cv-classification-segmentation-detection** | Transfer learning image classification, VGG19 fine-tuning, UNet nuclei segmentation, and Faster R-CNN object detection |
-| 🔒 **book-recommendation-engine** | Collaborative-filtering recommender (SVD, user similarity, PCA/t-SNE) on the Book-Crossing dataset |
-
-## Learning
-
-- **[LangChain-Langgraph-Quickstart](https://github.com/amuln90/LangChain-Langgraph-Quickstart)** (fork) — hands-on work from a LangChain, LangGraph & LangSmith agentic AI workshop by The Gen Academy, led by Aishwarya Srinivasan and Arvind Narayanamurthy
+[LangChain-LangGraph Quickstart](https://github.com/amuln90/LangChain-Langgraph-Quickstart)
+- workshop exercises covering LangChain, LangGraph, and LangSmith.
