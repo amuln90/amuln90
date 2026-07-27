@@ -11,46 +11,47 @@ Currently an Associate Manager at Ernst & Young, leading architecture and techni
 ## Core capabilities
 
 **Enterprise AI**
-![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-1a1a2e?style=flat-square)
-![LLMs](https://img.shields.io/badge/-LLMs-1a1a2e?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-1a1a2e?style=flat-square)
-![Knowledge Graphs](https://img.shields.io/badge/-Knowledge%20Graphs-1a1a2e?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-1a1a2e?style=flat-square)
-![Conversational AI](https://img.shields.io/badge/-Conversational%20AI-1a1a2e?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/-%F0%9F%A4%96%20Agentic%20AI-1a1a2e?style=flat-square)
+![LLMs](https://img.shields.io/badge/-%F0%9F%A7%A0%20LLMs-1a1a2e?style=flat-square)
+![RAG](https://img.shields.io/badge/-%F0%9F%94%8E%20RAG-1a1a2e?style=flat-square)
+![Knowledge Graphs](https://img.shields.io/badge/-%F0%9F%95%B8%EF%B8%8F%20Knowledge%20Graphs-1a1a2e?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/-%E2%9C%8D%EF%B8%8F%20Prompt%20Engineering-1a1a2e?style=flat-square)
+![Conversational AI](https://img.shields.io/badge/-%F0%9F%92%AC%20Conversational%20AI-1a1a2e?style=flat-square)
 
 **Cloud & AI Platforms**
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/-Cloud%20Run%20%26%20GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Run & GKE](https://img.shields.io/badge/-Cloud%20Run%20%26%20GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Pub/Sub](https://img.shields.io/badge/-Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloud Composer](https://img.shields.io/badge/-Cloud%20Composer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Data Platform Engineering**
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt%20Cloud-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Dagster](https://img.shields.io/badge/-Dagster-654AF3?style=flat-square)
-![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?style=flat-square)
-![Data Observability](https://img.shields.io/badge/-Data%20Observability-1a1a2e?style=flat-square)
+![Dagster](https://img.shields.io/badge/-Dagster-654AF3?style=flat-square&logo=dagster&logoColor=white)
+![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+![Data Observability](https://img.shields.io/badge/-%F0%9F%94%8D%20Data%20Observability-1a1a2e?style=flat-square)
 
 **Applied AI & MLOps**
-![LLM Engineering](https://img.shields.io/badge/-LLM%20Engineering-1a1a2e?style=flat-square)
-![MLOps](https://img.shields.io/badge/-MLOps-1a1a2e?style=flat-square)
-![AI Evaluation](https://img.shields.io/badge/-AI%20Evaluation-1a1a2e?style=flat-square)
-![AI Observability](https://img.shields.io/badge/-AI%20Observability-1a1a2e?style=flat-square)
+![LLM Engineering](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20LLM%20Engineering-1a1a2e?style=flat-square)
+![MLOps](https://img.shields.io/badge/-MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![AI Evaluation](https://img.shields.io/badge/-%F0%9F%93%8A%20AI%20Evaluation-1a1a2e?style=flat-square)
+![AI Observability](https://img.shields.io/badge/-%F0%9F%91%81%EF%B8%8F%20AI%20Observability-1a1a2e?style=flat-square)
 
 **Software Engineering**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-1a1a2e?style=flat-square)
-![Event-driven](https://img.shields.io/badge/-Event--driven%20Architecture-1a1a2e?style=flat-square)
+![REST APIs](https://img.shields.io/badge/-%F0%9F%94%8C%20REST%20APIs-1a1a2e?style=flat-square)
+![Event-driven](https://img.shields.io/badge/-%E2%9A%A1%20Event--driven%20Architecture-1a1a2e?style=flat-square)
 
 <br>
 
 ## Education
-Advanced Management Programme in Business Analytics (AMPBA), Indian School of Business — AI, ML, GenAI, Data Engineering, Decision Analytics
-B.Sc. Information Technology, Mumbai University
+
+- **Advanced Management Programme in Business Analytics (AMPBA)**, Indian School of Business — AI, ML, GenAI, Data Engineering, Decision Analytics
+- **B.Sc. Information Technology**, Mumbai University
 
 <br>
 
